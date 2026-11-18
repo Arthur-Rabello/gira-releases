@@ -124,11 +124,3 @@ No Windows 11, ele fica em *Mostrar mais opções*. Se ainda não aparecer, rein
 
 **Diz que falta FFmpeg ou LibreOffice.**
 Rode o instalador de novo e marque o que faltar.
-
----
-
-<div align="center">
-
-Sugestões ou problemas? **Me chama no Discord** 💬
-
-</div>
